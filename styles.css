@@ -1,1 +1,6 @@
-
+body {
+  background-color: #e9ecef;
+}
+rect {
+	fill: #e9ecef;
+}
