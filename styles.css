@@ -1,6 +1,35 @@
+/*
 body {
   background-color: #e9ecef;
-}
+}*/
 rect {
 	fill: #e9ecef;
+}
+
+.jumbotron {
+	margin-bottom: 0px;
+}
+.carousel-item {
+    /*min-height: 300px;*/
+}
+.carousel-caption {
+	color : #212529;
+}
+@font-face {
+    font-family: 'EnglandHand';
+    src: url('fonts/EnglandHand/england.ttf') format('opentype');
+}
+.fancy-handwriting {
+	font-family : EnglandHand
+}
+.carousel-control-prev-icon 
+{
+    width: 24px;
+    height: 24px;
+}
+    
+.carousel-control-next-icon
+{
+    width: 24px;
+    height: 24px;
 }
